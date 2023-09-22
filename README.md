@@ -18,6 +18,6 @@ This repository contains all information used in the calculation of the AI scali
 
 This will create a `results.txt` file containing the difficulty and qualifying times in your session. 00 - 100 indicates the difficulty level in GTP. 500 - 600 indicates the difficulty in GTD, subtract 500 from the car number to find the difficulty percentage for the car and driver.
 ## Storage
-All information used in the creation of this repository is contained in the `AITimingResults.xlsx` spreadsheet. You can add your own information to further improve the dataset.
+All information used in the creation of this repository is contained in the `AITimingResults.xlsx` spreadsheet. You can add your own information to further improve the dataset. Raw, unprocessed, data is also given here: https://github.com/josap97/iRacing-AI-Scaling/blob/main/rawTimeTable.md
 ## Derivation and Calculator
 All background information, derivation, and a calculator can be found here: https://josapol.web.app/JSPGaming/iRAIScaling.html.
