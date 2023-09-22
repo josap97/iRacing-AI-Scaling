@@ -15,6 +15,7 @@ This repository contains all information used in the calculation of the AI scali
 8. Copy the `parse.py` script to the same folder you saved the results to
 9. Open a new terminal in the parse.py folder
 10. Run `python parse.py results.json` and replace `results` by the name you saved the results under
+
 This will create a `results.txt` file containing the difficulty and qualifying times in your session. 00 - 100 indicates the difficulty level in GTP. 500 - 600 indicates the difficulty in GTD, subtract 500 from the car number to find the difficulty percentage for the car and driver.
 ## Storage
 All information used in the creation of this repository is contained in the `AITimingResults.xlsx` spreadsheet. You can add your own information to further improve the dataset.
